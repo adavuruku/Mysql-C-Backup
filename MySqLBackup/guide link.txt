@@ -1,0 +1,10 @@
+Guide - https://www.codeproject.com/Articles/256466/MySqlBackup-NET
+Download - https://www.dllme.com/getfile.php?file=23868&id=90129d1c7c75565baae150059bb4da09
+
+Installing mysqlbackup.dll directly to Windows.
+Copy the .DLL file to your C:\Windows\System32\ folder. (32 bit)
+Copy the .DLL file to your C:\Windows\SysWOW64\ folder. (64 bit)
+DLL installation has been completed!
+
+
+then add reference from visualstudio by browsing to your system to select the dll file
